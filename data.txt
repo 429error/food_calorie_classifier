@@ -1,0 +1,1 @@
+The data used for this food calorie classifier is a subset of large dataset "Food_101_small.zip" downlaoded from kaggle .
